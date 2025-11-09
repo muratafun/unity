@@ -1,4 +1,3 @@
-# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -8,13 +7,11 @@
 UserSettings/
 MemoryCaptures/
 
-# IDE files
 .vs/
 *.csproj
 *.sln
 *.user
 *.userprefs
 
-# OS files
 .DS_Store
 Thumbs.db
